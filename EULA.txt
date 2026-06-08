@@ -1,0 +1,453 @@
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         END USER LICENSE AGREEMENT (EULA)
+         AMN QFlow Mark I
+         Aneesh Murali Nariyampully Advanced Systems
+         commonly known as AMN Advanced Systems
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT — PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING,
+COPYING, OR USING THIS SOFTWARE.
+
+This End User License Agreement ("Agreement") is a legally binding
+contract between you, either as an individual or as a representative
+of an organization ("User" or "You"), and Aneesh Murali Nariyampully,
+sole creator and owner, operating under the trade name Aneesh Murali
+Nariyampully Advanced Systems, commonly known as AMN Advanced Systems
+("Developer"), for the software product AMN QFlow Mark I, including
+all associated files, templates, assets, documentation, and future
+updates ("Software").
+
+BY INSTALLING, COPYING, ACTIVATING, OR OTHERWISE USING THE SOFTWARE,
+YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE
+LEGALLY BOUND BY THE TERMS OF THIS AGREEMENT IN THEIR ENTIRETY.
+
+IF YOU DO NOT AGREE TO THESE TERMS IN FULL, YOU MUST NOT INSTALL,
+COPY, OR USE THE SOFTWARE. IF ALREADY INSTALLED, UNINSTALL IT
+IMMEDIATELY.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 1 — GRANT OF LICENSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1.1  Subject to the terms of this Agreement and upon payment of the
+     applicable license fee, the Developer grants You a personal,
+     limited, non-exclusive, non-transferable, non-sublicensable,
+     revocable license to install and use one (1) copy of the
+     Software on a single device owned or controlled by You, solely
+     for Your internal business operations.
+
+1.2  This license is granted solely to You and may not be shared,
+     transferred, or assigned to any other individual, device, or
+     organization without the prior written consent of the Developer.
+
+1.3  This license does not constitute a sale of the Software or any
+     intellectual property contained therein. You acquire no ownership
+     rights whatsoever by purchasing or using a license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 2 — OWNERSHIP & INTELLECTUAL PROPERTY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2.1  The Software and all original components created by the
+     Developer — including but not limited to source code, compiled
+     code, object code, algorithms, logic, user interface design,
+     visual design, color schemes, layout, templates, quotation
+     engine, product database structure, file formats (.amnqf,
+     .amnreq, .amnlic), PDF export templates and layouts,assets,
+     graphics, icons, and documentation — are and shall
+     remain the sole and exclusive intellectual property of
+     Aneesh Murali Nariyampully.
+
+2.2  The Software may include certain third-party libraries, fonts,
+     and components which are not owned by the Developer and are
+     subject to their own respective licenses. These are
+     acknowledged and detailed in the THIRD_PARTY_NOTICES.txt file
+     and the licenses\ folder included with the Software. 
+     Nothing in this Agreement claims ownership over any 
+     such third-party component.
+
+2.3  The Developer retains all rights, title, and interest in and
+     to the Software as a whole, including all original components
+     created by the Developer, without prejudice to the rights of
+     third-party component owners as acknowledged in Section 2.2.
+
+2.4  The name "Aneesh Murali Nariyampully Advanced Systems", the
+     commonly known short form "AMN Advanced Systems", and the
+     product names "AMN QFlow", "AMN QFlow Mark I", "QFlow Mark I",
+     "QFlow M1", and all associated logos, marks, identifiers, and
+     branding are the exclusive proprietary identifiers of the
+     Developer. You may not use, reproduce, imitate, or reference
+     them in any form — commercial or otherwise — without explicit
+     prior written consent from the Developer.
+
+2.5  All rights not expressly granted under this Agreement are
+     strictly reserved by the Developer.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 3 — RESTRICTIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You expressly agree that You will NOT, under any circumstances:
+
+  a) Copy, duplicate, reproduce, or distribute the Software or any
+     portion thereof to any third party, whether commercially or
+     free of charge, without prior written permission from the
+     Developer.
+
+  b) Reverse engineer, decompile, disassemble, decrypt, reconstruct,
+     or attempt by any means to derive the source code, internal
+     logic, algorithms, or structure of the Software.
+
+  c) Modify, adapt, translate, patch, alter, or create any derivative
+     works based on or inspired by the Software or any part thereof.
+
+  d) Rent, lease, lend, sell, resell, sublicense, publish, or in any
+     way transfer the Software or Your rights under this Agreement
+     to any other individual or organization.
+
+  e) Remove, alter, obscure, cover, or deface any copyright notice,
+     trademark, watermark, or proprietary legend within or attached
+     to the Software.
+
+  f) Use the Software, its design, structure, logic, or any part of
+     it as a basis, reference, or inspiration to develop a competing
+     or similar product or service.
+
+  g) Use the Software in any manner that violates any applicable
+     local, state, national, or international law, regulation,
+     or treaty.
+
+  h) Share, publish, or disclose Your license key, activation
+     credentials, or access to the Software with any other
+     individual, device, or organization.
+
+  i) Attempt to circumvent, disable, or interfere with any license
+     protection, copy protection, or security mechanism built into
+     the Software.
+
+  j) Use the Software on more devices or for more users than
+     expressly permitted under Your purchased license tier.
+
+  k) Use the Software for any unlawful, fraudulent, or malicious
+     purpose, or to generate documents intended to deceive or
+     defraud any individual or organization.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 4 — NO WARRANTY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4.1  THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT
+     WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+
+4.2  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE
+     DEVELOPER EXPRESSLY DISCLAIMS ALL WARRANTIES INCLUDING BUT
+     NOT LIMITED TO:
+
+       * IMPLIED WARRANTIES OF MERCHANTABILITY
+       * FITNESS FOR A PARTICULAR PURPOSE
+       * TITLE AND NON-INFRINGEMENT
+       * ACCURACY OR COMPLETENESS OF ANY OUTPUT OR DOCUMENT
+         GENERATED BY THE SOFTWARE
+       * UNINTERRUPTED OR ERROR-FREE OPERATION
+       * FREEDOM FROM BUGS, VIRUSES, OR HARMFUL COMPONENTS
+       * COMPATIBILITY WITH ANY PARTICULAR SYSTEM OR ENVIRONMENT
+
+4.3  THE DEVELOPER MAKES NO WARRANTY THAT THE SOFTWARE WILL MEET
+     YOUR SPECIFIC REQUIREMENTS OR THAT ANY DEFECTS WILL BE
+     CORRECTED.
+
+4.4  YOU ASSUME THE ENTIRE RISK AS TO THE QUALITY, PERFORMANCE,
+     ACCURACY, AND SUITABILITY OF THE SOFTWARE FOR YOUR PURPOSE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 5 — LIMITATION OF LIABILITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5.1  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO
+     EVENT SHALL ANEESH MURALI NARIYAMPULLY OR ANEESH MURALI
+     NARIYAMPULLY ADVANCED SYSTEMS (AMN ADVANCED SYSTEMS) BE
+     LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF OR RELATED
+     TO THIS AGREEMENT OR THE USE OR INABILITY TO USE THE
+     SOFTWARE, INCLUDING WITHOUT LIMITATION:
+
+       * Loss of data or corruption of data
+       * Loss of business information or records
+       * Loss of revenue, profit, goodwill, or business opportunity
+       * Business interruption or operational downtime
+       * Cost of substitute goods or services
+       * Any financial loss arising from documents, quotations,
+         or outputs generated by the Software
+       * Indirect, incidental, special, consequential, exemplary,
+         or punitive damages
+
+5.2  THIS LIMITATION APPLIES EVEN IF THE DEVELOPER HAS BEEN
+     ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF ANY
+     REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+
+5.3  IN ANY CASE, THE DEVELOPER'S TOTAL CUMULATIVE LIABILITY TO
+     YOU FOR ALL CLAIMS UNDER OR RELATED TO THIS AGREEMENT SHALL
+     NOT EXCEED THE TOTAL AMOUNT ACTUALLY PAID BY YOU FOR THE
+     SOFTWARE LICENSE IN THE TWELVE (12) MONTHS PRECEDING THE
+     CLAIM.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 6 — DISCLAIMER OF RESPONSIBILITY FOR QUOTATION OUTPUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6.1  NATURE OF THE SOFTWARE — AMN QFlow Mark I is a quotation
+     preparation tool. It is designed solely to assist users in
+     organizing and presenting pricing information in a structured
+     format. It is NOT an accounting system, billing system,
+     invoicing system, tax calculation system, or any form of
+     certified financial software.
+
+6.2  USER RESPONSIBILITY FOR DATA — You are solely and entirely
+     responsible for:
+
+       * The accuracy of all data entered into the Software,
+         including product names, prices, quantities, discounts,
+         and client information.
+       * Verifying all figures, totals, and calculations before
+         sending any quotation to any client or third party.
+       * Ensuring that any quotation generated by the Software
+         is reviewed, approved, and authorized by a competent
+         person within Your organization before use.
+       * Any business decision, financial commitment, or
+         contractual obligation made on the basis of any document
+         generated by the Software.
+
+6.3  NO FINANCIAL OR LEGAL ADVICE — Nothing produced by the
+     Software constitutes financial advice, legal advice, tax
+     advice, or any form of professional guidance. The Developer
+     is not a financial advisor, accountant, or legal professional.
+     You should seek independent professional advice for all
+     financial and legal matters.
+
+6.4  ERRORS IN OUTPUT — The Developer does not guarantee that
+     any quotation, calculation, or document generated by the
+     Software is free from errors, omissions, or inaccuracies.
+     Any error in output resulting from incorrect data entry,
+     software bugs, system incompatibilities, or any other cause
+     is entirely the responsibility of the User.
+
+6.5  THIRD PARTY RELIANCE — If any third party — including but
+     not limited to clients, customers, vendors, or partners —
+     relies on any quotation or document generated by the
+     Software, that reliance is entirely at their own risk. The
+     Developer accepts no liability whatsoever to any third party
+     arising from the use of any document produced by the
+     Software.
+
+6.6  FINANCIAL LOSS — The Developer shall not be held responsible
+     for any financial loss, pricing dispute, contractual dispute,
+     lost business, or any other consequence arising directly or
+     indirectly from:
+
+       * Incorrect prices entered by the User
+       * Incorrect discounts or quantities entered by the User
+       * Quotations sent to clients without adequate review
+       * Reliance on Software output without independent
+         verification
+       * Any miscommunication between the User and their clients
+         arising from documents generated by the Software
+
+6.7  FULL USER ACCOUNTABILITY — By using the Software to generate
+     and distribute quotations, You accept full and sole
+     responsibility for the content, accuracy, and consequences
+     of every document produced. The Developer's role is limited
+     strictly to providing the tool. What You do with that tool
+     and the documents it produces is entirely Your responsibility.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 7 — DATA & PRIVACY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7.1  ACTIVATION PROCESS — AMN QFlow Mark I uses a manual offline
+     activation process. To activate the Software, You generate
+     a license request file (.amnreq) from within the Software.
+     This file contains Your name, company name, email address,
+     and a machine identifier. You then send this file to the
+     Developer at info@amn.co.in. The Developer uses it solely
+     to generate a license file (.amnlic) which is sent back to
+     You for activation. No data is transmitted automatically
+     by the Software at any time.
+
+7.2  WHAT THE REQUEST FILE CONTAINS — The .amnreq file contains:
+
+       * Your full name
+       * Your company name
+       * Your email address
+       * A machine identifier — a one-way cryptographic fingerprint
+         derived from Your hardware. Raw hardware values are never
+         stored, displayed, or recoverable from this fingerprint.
+         It is used exclusively to bind the license to Your device.
+
+7.3  PURPOSE LIMITATION — The information contained in the
+     .amnreq file is used solely for the purpose of generating
+     Your software license. It is never sold, rented, shared
+     with third parties, or used for advertising, marketing,
+     or any purpose beyond license issuance and validation.
+
+7.4  OFFLINE OPERATION — After activation, AMN QFlow Mark I
+     operates entirely offline. The Software does not collect,
+     record, transmit, upload, or share any business data, client
+     data, quotation data, financial data, or usage telemetry to
+     the Developer or any third party, at any time.
+
+7.5  YOUR BUSINESS DATA — All data entered into or generated by
+     the Software after activation — including client information,
+     product databases, quotations, settings, and exported files
+     — is stored exclusively on Your local device and remains
+     under Your full control at all times. The Developer has
+     no access to this data whatsoever.
+
+7.6  DATA SECURITY — Activation data received by the Developer
+     is handled with reasonable care and stored securely. The
+     Developer does not guarantee absolute security but takes
+     reasonable measures to protect Your information from
+     unauthorized access or disclosure.
+
+7.7  CONSENT — By generating and submitting the .amnreq file,
+     You consent to the collection and use of Your activation
+     data as described in this Section.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 8 — TERMINATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8.1  This Agreement is effective from the date You first install
+     or use the Software and remains in force until terminated.
+
+8.2  The Developer reserves the right to terminate this Agreement
+     immediately, without notice and without liability, if You
+     breach any term or condition of this Agreement.
+
+8.3  You may terminate this Agreement at any time by permanently
+     uninstalling and destroying all copies of the Software in
+     Your possession.
+
+8.4  Upon termination for any reason:
+
+       * Your license to use the Software is immediately and
+         permanently revoked.
+       * You must uninstall the Software from all devices and
+         destroy all copies, backups, and associated files in
+         Your possession.
+       * Sections 2, 4, 5, 6, 7, 10, 11, and 12 of this Agreement
+         shall survive termination and remain in full force
+         and effect.
+
+8.5  Termination of this Agreement does not entitle You to any
+     refund of any license fees paid.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 9 — UPDATES, VERSIONS & SUPPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9.1  The Developer may, entirely at their discretion, provide
+     updates, patches, bug fixes, or new versions of the Software.
+     The Developer is under no obligation whatsoever to provide
+     any support, maintenance, updates, or enhancements.
+
+9.2  Any update or new version provided shall be considered part
+     of the Software and subject to the terms of this Agreement,
+     unless accompanied by a separate agreement that explicitly
+     supersedes this one.
+
+9.3  The Developer reserves the right to discontinue the Software
+     or any version thereof at any time without notice or
+     liability.
+
+9.4  Future versions of the Software may be released under a
+     different name, version number, or license and are not
+     guaranteed to be covered under this Agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 10 — GOVERNING LAW & DISPUTE RESOLUTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10.1  This Agreement shall be governed by and construed exclusively
+      in accordance with the laws of India, including the
+      Information Technology Act, 2000, the Copyright Act, 1957,
+      and applicable Indian contract law, without regard to
+      conflict of law principles.
+
+10.2  Any dispute, claim, or controversy arising out of or
+      relating to this Agreement or the Software shall be subject
+      to the exclusive jurisdiction of the competent courts
+      located in Thrissur, Kerala, India.
+
+10.3  Before initiating any formal legal proceedings, both parties
+      agree to attempt resolution of any dispute through good-faith
+      negotiation for a period of not less than thirty (30) days
+      from the date written notice of the dispute is provided.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 11 — GENERAL PROVISIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11.1  ENTIRE AGREEMENT — This Agreement constitutes the entire
+      and complete agreement between You and the Developer with
+      respect to the Software and supersedes all prior or
+      contemporaneous agreements, representations, warranties,
+      and understandings, whether written or oral.
+
+11.2  SEVERABILITY — If any provision of this Agreement is found
+      by a court of competent jurisdiction to be invalid, illegal,
+      or unenforceable, that provision shall be modified to the
+      minimum extent necessary to make it enforceable, and the
+      remaining provisions shall continue in full force and effect.
+
+11.3  NO WAIVER — Failure by the Developer to enforce any right
+      or provision of this Agreement shall not constitute a waiver
+      of that right or provision in any current or future instance.
+
+11.4  AMENDMENTS — The Developer reserves the right to amend the
+      terms of this Agreement at any time. Continued use of the
+      Software after notice of amendments constitutes Your
+      acceptance of the revised terms.
+
+11.5  LANGUAGE — This Agreement is written in English. In the
+      event of any translation, the English version shall prevail
+      and be the authoritative version in all legal matters.
+
+11.6  HEADINGS — Section headings are included for convenience
+      only and shall not affect the interpretation or construction
+      of this Agreement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SECTION 12 — CONTACT & LEGAL NOTICES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For licensing inquiries, permissions, or any legal correspondence
+related to this Agreement or the Software, contact the Developer:
+
+      Aneesh Murali Nariyampully
+      Aneesh Murali Nariyampully Advanced Systems
+      (AMN Advanced Systems)
+      Thrissur, Kerala, India
+      Email: info@amn.co.in
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Copyright (c) 2026 Aneesh Murali Nariyampully
+Aneesh Murali Nariyampully Advanced Systems
+(AMN Advanced Systems)
+All rights reserved worldwide.
+
+This Software is protected under the Copyright Act of India, 1957,
+the Information Technology Act of India, 2000, and applicable
+international copyright treaties including the Berne Convention
+and the WIPO Copyright Treaty.
+
+Unauthorized reproduction, distribution, modification, or use of
+this Software or any portion thereof may result in severe civil
+and criminal penalties and will be prosecuted to the fullest
+extent permitted under applicable law.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+AMN QFlow Mark I — EULA Version 1.0 — Copyright 2026
+Aneesh Murali Nariyampully Advanced Systems (AMN Advanced Systems)
+Thrissur, Kerala, India
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,41 @@
+THIRD-PARTY SOFTWARE NOTICES
+AMN QFlow M1
+================================================================================
+
+This product includes third-party software components listed below.
+Full license texts are provided in the licenses\ folder.
+
+--------------------------------------------------------------------------------
+1. Pillow 12.2.0
+   https://python-pillow.org
+   License: MIT-CMU License
+   Full text: licenses\Pillow.txt
+
+   Pillow also includes bundled third-party components.
+   Full details and license texts are in licenses\Pillow.txt.
+
+--------------------------------------------------------------------------------
+2. ReportLab 4.5.1
+   https://www.reportlab.com
+   License: BSD 3-Clause License
+   Full text: licenses\ReportLab.txt
+
+--------------------------------------------------------------------------------
+3. Python 3.14
+   https://www.python.org
+   License: Python Software Foundation License Version 2
+   Full text: licenses\Python.txt
+
+--------------------------------------------------------------------------------
+4. DejaVu Fonts
+   https://dejavu-fonts.github.io
+   License: Bitstream Vera Fonts License / Public Domain
+   Full text: licenses\DejaVu.txt
+
+   DejaVu changes are in the public domain.
+   Bitstream Vera portions are Copyright (c) 2003 by Bitstream, Inc.
+   Arev portions are Copyright (c) 2006 by Tavmjong Bah.
+
+================================================================================
+END OF THIRD-PARTY NOTICES
+================================================================================
