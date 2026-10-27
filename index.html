@@ -686,10 +686,14 @@ The work was done once. Now it works for you every time.<br>The paperwork disapp
   </div>
 
   <div class="plans">
-    <div class="plan r d1">
+    <!--<div class="plan r d1">
       <h3>Annual</h3>
       <span class="price"><span style="font-family:system-ui,sans-serif;font-weight:400">₹</span><span data-config="price-annual">4,999</span></span>
-    </div>
+    </div>-->
+  	<div class="plan r d1">
+  	  <h3>2 Year</h3>
+  	  <span class="price"><span style="font-family:system-ui,sans-serif;font-weight:400">₹</span><span data-config="price-2year">4,999</span></span>
+    </div>	  
 
     <div class="plan r d2">
       <h3>3 Year</h3>
@@ -726,7 +730,8 @@ The work was done once. Now it works for you every time.<br>The paperwork disapp
     youtubeId:      'plIw1Ex0Ev0',
     youtubeUrl:     'https://youtu.be/plIw1Ex0Ev0',
     priceAnnual:    '4,999',
-    price3Year:     '9,999',
+	price2Year:     '4,999',  
+    price3Year:     '6,999',
     downloadUrl:    'https://github.com/aneeshmurali-n/qflow-m1/releases/latest/download/QFlow_M1_2.0.0_x64.exe',
   };
   /* ─────────────────────────────────────────────────────────────────── */
@@ -744,7 +749,8 @@ The work was done once. Now it works for you every time.<br>The paperwork disapp
     // PDF
     document.querySelectorAll('[data-config="pdf-src"]').forEach(el => el.src = CONFIG.pdfFile + '#toolbar=0&navpanes=0&scrollbar=1');
     // Prices
-    document.querySelectorAll('[data-config="price-annual"]').forEach(el => el.textContent = CONFIG.priceAnnual);
+    //document.querySelectorAll('[data-config="price-annual"]').forEach(el => el.textContent = CONFIG.priceAnnual);
+	document.querySelectorAll('[data-config="price-2year"]').forEach(el => el.textContent = CONFIG.price2Year);  
     document.querySelectorAll('[data-config="price-3year"]').forEach(el => el.textContent = CONFIG.price3Year);
     // Download
     document.querySelectorAll('[data-config="download-url"]').forEach(el => el.href = CONFIG.downloadUrl);
