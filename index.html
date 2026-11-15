@@ -633,23 +633,25 @@ The work was done once. Now it works for you every time.<br>The paperwork disapp
   <p style="font-size:.82rem;font-weight:400;color:var(--muted);">Rajeesh &nbsp;·&nbsp; Cinemagic, Thrissur</p>
 </div>
 
-<!-- VIDEO — uncomment when real video is ready-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- VIDEO -->
 <div style="padding:7rem 1.5rem;background:#fff;text-align:center;">
   <p style="font-family:'DM Mono',monospace;font-size:.78rem;letter-spacing:.12em;text-transform:none;color:var(--muted);margin-bottom:1.2rem;">See It In Action</p>
   <h2 class="r" style="font-weight:500;font-size:clamp(2rem,4vw,3.2rem);line-height:1.08;letter-spacing:-.02em;color:var(--ink);margin-bottom:1rem;">Watch how it works.</h2>
-  <p class="r d1" style="font-size:1.15rem;font-weight:300;color:var(--muted);max-width:480px;margin:0 auto 3rem;">Explore the current software version at a glance. More detailed videos coming soon.</p>
+  <p class="r d1" style="font-size:1.15rem;font-weight:300;color:var(--muted);max-width:480px;margin:0 auto 3rem;">See AMN QFlow M1 in action and explore how it can simplify your quotation workflow.</p>
   <div class="r d2" style="max-width:960px;margin:0 auto;border-radius:18px;overflow:hidden;box-shadow:0 40px 100px rgba(0,0,0,.12);">
-    <a data-config="yt-href" href="https://youtu.be/plIw1Ex0Ev0" target="_blank" rel="noopener" style="display:block;position:relative;aspect-ratio:16/9;background:#000;cursor:pointer;">
-      <img data-config="yt-thumb" src="https://youtu.be/plIw1Ex0Ev0/hqdefault.jpg" alt="QFlow M1 Demo" style="width:100%;height:100%;object-fit:cover;opacity:.85;display:block;">
-      <div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;">
-        <div style="width:72px;height:72px;background:rgba(255,255,255,.92);border-radius:50%;display:flex;align-items:center;justify-content:center;transition:transform .2s;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'">
-          <svg width="28" height="28" viewBox="0 0 24 24" fill="none"><polygon points="9,6 20,12 9,18" fill="#0a0908"/></svg>
-        </div>
-      </div>
-    </a>
+    <div style="position:relative;aspect-ratio:16/9;background:#000;overflow:hidden;">
+      <iframe
+        data-config="yt-iframe"
+        src="https://www.youtube-nocookie.com/embed/ZvM0xGuK-Sc"
+        title="AMN QFlow M1 Video"
+        style="position:absolute;inset:0;width:100%;height:100%;border:0;"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
   </div>
 </div>
-	-->
 
 <hr>
 
@@ -727,8 +729,8 @@ The work was done once. Now it works for you every time.<br>The paperwork disapp
     imgGallery:     'img-gallery.png',
     imgHistory:     'img-history.png',
     pdfFile:        'Rahul Nair - Dolby Atmos 7.1.2 - 07 Jun 2026.pdf',
-    youtubeId:      'plIw1Ex0Ev0',
-    youtubeUrl:     'https://youtu.be/plIw1Ex0Ev0',
+    youtubeId:      'ZvM0xGuK-Sc',
+    youtubeUrl:     'https://youtu.be/ZvM0xGuK-Sc',
     priceAnnual:    '4,999',
 	price2Year:     '4,999',  
     price3Year:     '6,999',
@@ -758,6 +760,7 @@ The work was done once. Now it works for you every time.<br>The paperwork disapp
     // YouTube
     document.querySelectorAll('[data-config="yt-href"]').forEach(el => el.href = CONFIG.youtubeUrl);
     document.querySelectorAll('[data-config="yt-thumb"]').forEach(el => el.src = 'https://img.youtube.com/vi/' + CONFIG.youtubeId + '/maxresdefault.jpg');
+    document.querySelectorAll('[data-config="yt-iframe"]').forEach(el => el.src = 'https://www.youtube-nocookie.com/embed/' + CONFIG.youtubeId);
   });
 
 
